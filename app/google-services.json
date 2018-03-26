@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "258604129031",
+    "firebase_url": "https://loginrstnk1.firebaseio.com",
+    "project_id": "loginrstnk1",
+    "storage_bucket": "loginrstnk1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258604129031:android:2e641118b8a80117",
+        "android_client_info": {
+          "package_name": "com.example.itachi.loginrstnk1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258604129031-kaufe31a2gc0hc0v5jhsnfj0jegf5u24.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.itachi.loginrstnk1",
+            "certificate_hash": "943b4905786f93d99c9279413546b68e688a4fb2"
+          }
+        },
+        {
+          "client_id": "258604129031-jq3ulgh6hgtud3or2t0fuo07pufaqgce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP5lqBRcel_LAOBFCzXTFuO45T2CMQ5LE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258604129031-jq3ulgh6hgtud3or2t0fuo07pufaqgce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
